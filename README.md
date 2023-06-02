@@ -1,7 +1,6 @@
 # IBM Full Back-End Development Professional Certificate
 I'm enrolled in an IBM course on Coursera called "[IBM Back-end Development Professional Certificate](https://coursera.org/share/5332d657214de1e4f42e9fbbd68b82c8)." There are 10 sub-courses in this professional course. I created this repository so that I may share my course certificates & asignments.
 
-![Coursera RTBCMVFNEKJU_page-0001](https://user-images.githubusercontent.com/114513868/224536926-b1c7ae2a-2bb4-43a4-8d05-8925a3951527.jpg)
 
 
 # Certificates:
